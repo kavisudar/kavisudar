@@ -1,0 +1,21 @@
+body {
+    background-color:hsl(221.54deg 16.88% 15.1%);
+    
+   
+}
+#main{
+    background-color:gray;
+    align-items:self-start;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+.inbio{
+    background-color: white;
+    border-radius: 2px;
+    border-radius: solid black;
+}
+#info{
+    padding: 5,10,5,25px;
+}
