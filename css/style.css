@@ -1,7 +1,7 @@
 body {
     background-color:hsl(221.54deg 16.88% 15.1%);
-    
-   
+    background-image: url(/image/background.jpg);
+    resize: both;
 }
 #main{
     background-color:gray;
@@ -9,13 +9,39 @@ body {
     display: flex;
     justify-content: space-evenly;
     border-radius: 25px;
-    border: 2px solid black;
+    border: 2px solid gray;
+    margin-top: 25px;
+    box-shadow: 0 0 10px gray;
+}
+.main-info{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding:50px;
+    
 }
 .inbio{
-    background-color: white;
-    border-radius: 2px;
-    border-radius: solid black;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 5px;
+}
+#menu{
+    display: flex;
+    color: aliceblue;
+    justify-content: right;
+}
+.menu-items{
+    padding: 20px;
+    box-shadow:0 0 10px #fff;
 }
 #info{
-    padding: 5,10,5,25px;
+    width: 480px;
+    display: flex;
+    background-color:rgb(0, 0, 0);
+    flex-direction: column;
+    border-radius: 15px;
+    padding-left: 15px;
+    border: 1px solid #26bf47;
+    box-shadow: 0 0 10px #26bf47
 }
