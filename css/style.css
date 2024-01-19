@@ -47,3 +47,39 @@ body {
     border: 1px solid #26bf47;
     box-shadow: 0 0 10px #26bf47
 }
+nav{
+    margin-top: 2px;
+    font-size: medium;
+    font-family:sans-serif;
+}
+nav ul{
+    list-style-type: none;
+    display: inline-block;
+    transform: skew(-25deg);
+}
+nav ul li{
+    float: left;
+    border-right: 3px solid rgb(5, 3, 103);
+    background-color: rgb(194, 190, 196);
+    color: rgb(11, 10, 12);
+    box-shadow: 1.95px 1.95px rgba(15, 168, 150,1);
+    font-weight: 400;
+    transition: all linear 0.3s;
+}
+nav ul li:hover{
+    background-color: aqua;
+    color: #fff;
+}
+li {
+    padding: 10px;
+}
+nav ul li:first-child{
+    border-radius: 7px 0 0 7px;
+}
+nav ul li:last-child{
+    border-radius: 0 7px 7px 0;
+}
+a{
+    text-decoration: none;
+    transform:skew(25deg);
+}
