@@ -1,7 +1,9 @@
 body {
     background-color:hsl(221.54deg 16.88% 15.1%);
-    background-image: url(/image/background.jpg);
-    resize: both;
+    background-image: url('/image/developer.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
 }
 #main{
     background-color:gray;
@@ -18,7 +20,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding:50px;
+    padding: 50px;
     
 }
 .inbio{
