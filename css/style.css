@@ -1,12 +1,19 @@
-body {
+body{
+    box-shadow: 0 0 25px rgb(59, 170, 175);
+    border-radius: 10px;
+    background: linear-gradient(to bottom,gray,rgb(93, 168, 168) )
+}
+#img-area {
     background-color:hsl(221.54deg 16.88% 15.1%);
-    background-image: url('/image/developer.jpg');
+    background-image: url('/image/bg-for-developer.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 50vh;
+    border-radius: 10px;
+    box-shadow: rgba(15, 168, 150, 0.901);
 }
 #main{
-    background-color:gray;
+    background-color:rgba(128, 128, 128, 0.823);
     align-items:self-start;
     display: flex;
     justify-content: space-evenly;
@@ -14,6 +21,13 @@ body {
     border: 2px solid gray;
     margin-top: 25px;
     box-shadow: 0 0 10px gray;
+}
+h2,h3,h5{
+    padding: 3px 0px 10px 8rem;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: italic;
 }
 .main-info{
     align-items: center;
@@ -39,7 +53,6 @@ body {
 }
 #info{
     width: 480px;
-    display: flex;
     background-color:rgb(0, 0, 0);
     flex-direction: column;
     border-radius: 15px;
@@ -82,4 +95,50 @@ nav ul li:last-child{
 a{
     text-decoration: none;
     transform:skew(25deg);
+}
+#summary-id{
+    border: 1px solid #fff;
+    box-shadow: 0 0 50px gray;
+    border-radius: 5px;
+    padding: 50px;
+    width: 75%; 
+   
+}
+.summary-class{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: palegreen;
+    letter-spacing: 1.2px;
+    background-color:rgb(0, 0, 0);
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0 0 10px #26bf47; 
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30rem;
+    height: 5rem;
+    background: linear-gradient(to left,rgb(54, 58, 57),rgb(21, 211, 211));
+    margin-top: 35rem;
+    margin-left: 25rem;
+    border-radius: 7px;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.09);
+    border: 1px solid rgb(255,255,255);
+
+    
+}
+.box{
+    height: 3rem;
+    width: 17rem;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.09),
+    -3px -3px 10px rgba(0,0,0,0.09);
+    border-radius: 7px;
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
 }
