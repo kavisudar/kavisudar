@@ -102,6 +102,7 @@ a{
     border-radius: 5px;
     padding: 50px;
     width: 75%; 
+    font-size: 25px;
    
 }
 .summary-class{
@@ -122,8 +123,8 @@ a{
     width: 30rem;
     height: 5rem;
     background: linear-gradient(to left,rgb(54, 58, 57),rgb(21, 211, 211));
-    margin-top: 35rem;
-    margin-left: 25rem;
+    margin-top: 52rem;
+    margin-left: 32rem;
     border-radius: 7px;
     box-shadow: 3px 3px 10px rgba(0,0,0,0.09);
     border: 1px solid rgb(255,255,255);
