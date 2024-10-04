@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,MongoDB**
 
-- 🤝 I’m looking for help with **java,Tailwindcss,Bootstrap**
+- 🤝 I’m looking for help with **java,javascript,react**
 
 - 💬 Ask me about **Front-End Development and Problem Solving**
 
