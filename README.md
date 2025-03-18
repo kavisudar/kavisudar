@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **kavisudar6@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1542LOTL9juj1nHbZXETFfYD0qhxigcib/view?usp=drive_link)
-
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs! 🐛**
 
 <h3 align="left">Connect with me:</h3>
