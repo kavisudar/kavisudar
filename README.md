@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavisudar" alt="kavisudar" /></a> </p>
 
-- 🌱 I’m currently learning **React,MongoDB**
+- 🌱 I’m currently learning **Networking and Linux**
 
 - 🤝 I’m looking for help with **java,javascript,react**
 
