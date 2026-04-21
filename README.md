@@ -23,11 +23,11 @@
 name: Kavisudar M
 location: India 🇮🇳
 role: Front-End Developer
-currently_learning: [Networking, Linux]
+currently_learning: [Spring Boot,Networking, Linux]
 seeking_help_with: [Java, JavaScript, React]
-ask_me_about: [Front-End Development, Problem Solving]
+ask_me_about: [Web Development, Problem Solving]
 fun_fact: "Why do programmers prefer dark mode? Because light attracts bugs! 🐛"
-email: kavisudar6@gmail.com
+email: kavisudar.be14@gmail.com
 ```
 
 ---
@@ -43,7 +43,6 @@ email: kavisudar6@gmail.com
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🛠️ Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
