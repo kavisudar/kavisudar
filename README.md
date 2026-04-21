@@ -107,7 +107,7 @@ email: kavisudar.be14@gmail.com
 
 <div align="center">
 
-### 💡 *"First, solve the problem. Then, write the code."* — John Johnson
+### 💡 *"If you want to crack the system, first understand the system"* — John Johnson
 
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer)
 
